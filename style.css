@@ -1,0 +1,10 @@
+body{
+    background:#999999;  
+    /*This is just a comment,
+     it will not be interpreted by the browser */
+    color:green;
+    font-size:32px;
+    font-weight: bold;
+    text-align:center;
+    margin-top:250px; 
+} 
