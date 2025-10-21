@@ -1,0 +1,17 @@
+.following{
+    margin:10px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:fit-content;
+    border:2px solid lightgray;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:20px;
+    font-weight:bold;
+}
+body{
+    margin-top:50px;
+}
