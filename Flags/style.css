@@ -3,15 +3,15 @@ body{
 }
 .red{
     background:#990000;
-    height:189px;
-    margin-bottom:189px;
+    height:200px;
 }
 .blue{
 background:#000099;
-height:189px;
+height:120px;
 display:block;
+margin: 40px 0 40px 0;
 }
 .green{
-    height:189px;
+    height:200px;
     background:#009900;
 }
