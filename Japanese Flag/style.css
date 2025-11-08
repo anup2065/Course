@@ -1,0 +1,7 @@
+.flag{
+    height:300px;
+    width: 300px;
+    background-color: red;
+    margin:170px auto;
+    border-radius: 50%;
+}
