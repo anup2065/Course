@@ -1,0 +1,16 @@
+@font-face{
+  src:url("Malegroth demo.otf");
+  font-family:Malegroth;
+}
+h1{
+    font-family:Malegroth;
+    font-size: 100px;
+    display: flex;
+    width: 400px;
+    margin:20px auto 0px auto;
+}
+img{
+    width: 400px;
+    display: flex;
+    margin: 0 370px 0 430px;
+}
